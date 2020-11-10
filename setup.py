@@ -11,7 +11,7 @@ setup(
   description = 'Wrapper for graphene-django to implement graphql as easy as listen music.',   
   author = 'Yasiel Cabrera',                   
   author_email = 'yasiel9506@gmail.com',      
-  url = 'https://github.com/topletal/django-model-mutations',  
+  url = 'https://github.com/YasielCabrera/dj-graphene',  
   keywords = ['GRAPHENE', 'GRAPHENE-DJANGO', 'GRAPHQL', 'DJANGO', 'MODELS', 'API', 'PERMISSIONS'],
   install_requires = [
           'graphene',        
@@ -21,7 +21,7 @@ setup(
   long_description=long_description,
   long_description_content_type='text/markdown',  
   classifiers=[
-    'Development Status :: 1 - Alpha',     
+    'Development Status :: 3 - Alpha',
     'Intended Audience :: Developers',      
     'Topic :: Software Development :: Build Tools',
     'License :: OSI Approved :: MIT License',  
