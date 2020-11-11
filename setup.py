@@ -6,9 +6,9 @@ with open('README.md') as f:
 setup(
   name = 'dj-graphene',         
   packages = ['dj_graphene'],   
-  version = '0.0.2',      
+  version = '0.0.2-b.2',      
   license='MIT',        
-  description = 'A graphene-django wrapper to do more writing less 💃🕺',   
+  description = 'A graphene-django wrapper to do stuffs in the Django way 💃🕺',   
   author = 'Yasiel Cabrera',                   
   author_email = 'yasiel9506@gmail.com',      
   url = 'https://github.com/YasielCabrera/dj-graphene',  
